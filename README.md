@@ -42,7 +42,3 @@ I'm Lawrence Al-khalaileh, a passionate MERN-Stack Developer Developer. I love b
 - **React Router** (Navigation)
 
 ---
-
-## 🖼️ Project Preview
-
-Below are some screenshots from the project.
